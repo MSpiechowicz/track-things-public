@@ -2,7 +2,6 @@
 
 Track-Things is a modern, intuitive, and collaborative task and project tracking application. It helps individuals and teams organize their work, manage projects, and boost productivity with a beautiful, responsive UI and real-time collaboration features.
 
----
 
 ## 🚀 Tech Stack
 
@@ -16,7 +15,6 @@ Track-Things is a modern, intuitive, and collaborative task and project tracking
 - **Zod** (validation)
 - **Other modern libraries**: svelte-sonner, sveltekit-superforms, etc.
 
----
 
 ## ✨ Features
 
@@ -29,14 +27,11 @@ Track-Things is a modern, intuitive, and collaborative task and project tracking
 - Responsive design
 - Easy deployment (Docker, etc.)
 
----
-
 
 ## 🤝 Contributing
 
 This repository is private. If you want to contribute, please contact the maintainer (Maciej Spiechowicz).
 
----
 
 ## ☕ Support Development
 
