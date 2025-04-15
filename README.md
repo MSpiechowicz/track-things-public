@@ -36,7 +36,7 @@ This repository is private. If you want to contribute, please contact the mainta
 ## ☕ Support Development
 
 If you like this project, you can support development by buying me a coffee:
-https://www.paypal.com/paypalme/maciejspiechowicz
+https://www.paypal.com/paypalme/maciejspiechowicz85
 
 You can see the current production here: https://track-things.com
 
